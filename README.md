@@ -31,11 +31,18 @@ $ mv apigateway-runtime-base.jar static
 
 ```
 
+Update the back-end server in the file
+
+```
+/opt/softwareag/IntegrationServer/instances/default/packages/WmE2eAPIAgent/resources/config/agent.config
+```
 
 Then restart your server.
 
 # Usage
 
-Add a tag "e2e" to your API 
+Add a tag "e2e" to your API. 
+
+//: ![Skywalking trace](skywalking-trace.png)
 
 
