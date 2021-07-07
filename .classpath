@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="libs/apigateway-api-import.jar"/>
+	<classpathentry kind="lib" path="libs/apigateway-api.jar"/>
+	<classpathentry kind="lib" path="libs/apigateway-cloud.jar"/>
+	<classpathentry kind="lib" path="libs/apigateway-core.jar"/>
+	<classpathentry kind="lib" path="libs/apigateway-iam.jar"/>
+	<classpathentry kind="lib" path="libs/apigateway-is.jar"/>
+	<classpathentry kind="lib" path="libs/apigateway-runtime-base.jar"/>
+	<classpathentry kind="lib" path="libs/apigateway-runtime-provider-base.jar"/>
+	<classpathentry kind="lib" path="libs/apigateway-runtime-provider.jar"/>
+	<classpathentry kind="lib" path="libs/apigateway-runtime.jar"/>
+	<classpathentry kind="lib" path="libs/axis2-kernel-1.6.2.15-v0011.jar"/>
+	<classpathentry kind="lib" path="libs/synapse-core-3.0.1.jar"/>
+	<classpathentry kind="lib" path="/Applications/SoftwareAG/10.7/IntegrationServer/lib/wm-isserver.jar"/>
+	<classpathentry kind="lib" path="/Applications/SoftwareAG/10.7/common/lib/wm-isclient.jar"/>
+	<classpathentry kind="lib" path="libs/uhm-apm-agent.jar" sourcepath="/Users/jcart/Programming/eclipse/workspace107/UHM/src/apm-agent-core/src/main/java"/>
+	<classpathentry kind="lib" path="libs/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
