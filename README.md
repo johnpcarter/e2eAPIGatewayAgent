@@ -2,6 +2,9 @@
 
 Example project to showcase e2e tracing from API Gateway. 
 
+source code is under /src/com/softwareag/e2e/agent/api/
+
+All other classes are clones from the UHM project and are here only for research purposes and not used.
 
 # Setup
 
