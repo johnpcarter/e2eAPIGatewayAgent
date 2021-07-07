@@ -43,6 +43,6 @@ Then restart your server.
 
 Add a tag "e2e" to your API. 
 
-//: ![Skywalking trace](skywalking-trace.png)
+![Skywalking trace](skywalking-trace.png)
 
 
