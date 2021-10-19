@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/Applications/SoftwareAG/10.7/IntegrationServer/instances/default/packages/JcEtoEUseCases/resources/is-agent.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/e2e-api-agent/exportJarToPackage.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="true" manifestLocation="" manifestVersion="1.0" reuseManifest="false" saveManifest="false" usesManifest="true">
+        <sealing sealJar="false">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="false" exportOutputFolder="false">
+        <javaElement handleIdentifier="=e2e-api-agent/src&lt;com.softwareag.is.integrationlive"/>
+        <javaElement handleIdentifier="=e2e-api-agent/src&lt;com.softwareag.pg.pgmen.collectors"/>
+        <javaElement handleIdentifier="=e2e-api-agent/src&lt;com.wm.app.b2b.server"/>
+        <javaElement handleIdentifier="=e2e-api-agent/src&lt;com.softwareag.e2e.agent.api"/>
+        <javaElement handleIdentifier="=e2e-api-agent/src&lt;com.softwareag.pg.axis2.transports"/>
+        <javaElement handleIdentifier="=e2e-api-agent/src&lt;com.softwareag.pg.http"/>
+        <javaElement handleIdentifier="=WmRnDInvokeInterceptor/src&lt;com.softwareag.wm"/>
+        <javaElement handleIdentifier="=e2e-api-agent/src&lt;com.softwareag.uhm.is.instrumentation"/>
+        <javaElement handleIdentifier="=e2e-api-agent/src&lt;com.wm.net"/>
+        <javaElement handleIdentifier="=WmRnDInvokeInterceptor/src&lt;com"/>
+        <javaElement handleIdentifier="=WmRnDInvokeInterceptor/src&lt;com.softwareag.wm.e2e"/>
+        <javaElement handleIdentifier="=WmRnDInvokeInterceptor/src&lt;com.softwareag.wm.e2e.agent{InvokeInterceptor.java"/>
+        <file path="/e2e-api-agent/skywalking-plugin.def"/>
+        <file path="/WmRnDInvokeInterceptor/src/.DS_Store"/>
+        <javaElement handleIdentifier="=e2e-api-agent/src&lt;com.softwareag.uhm.api.instrumentation"/>
+        <javaElement handleIdentifier="=WmRnDInvokeInterceptor/src&lt;com.softwareag"/>
+    </selectedElements>
+</jardesc>

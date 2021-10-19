@@ -18,6 +18,7 @@ apiIn=com.softwareag.e2e.agent.api.MediatorHttpHandlerInstrumentation
 apiStatus=com.softwareag.e2e.agent.api.BaseCollectionManagerInstrumentation
 apiOut=com.softwareag.e2e.agent.api.HttpURLConnectionInitInstrumentation
 apiOutDone=com.softwareag.e2e.agent.api.HttpURLDisconnectionInstrumentation
+#reverseInvokeIn=com.softwareag.e2e.agent.api.HTTPReverseInvokeDispatchHandlerInstrumentation
 
 #pgIn=com.softwareag.uhm.api.instrumentation.BaseCollectionManagerInstrumentation
 #pgOut=com.softwareag.uhm.api.instrumentation.MediatorHttpHandlerInstrumentation

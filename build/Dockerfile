@@ -2,7 +2,7 @@
 # Template to customise msc based image
 #
 
-FROM wm-api-gateway:10.7
+FROM store/softwareag/apigateway-trial:10.7
 LABEL MAINTAINER="johncarter@softwareag.com" \
 	DESCRIPTION="API Gateway with e2e agent package" \
 	CUSTOM="true" \
